@@ -65,4 +65,4 @@ This project helped me practice:
 * normalization concepts
 * real-world business flow thinking
 
-This is a beginner-friendly database design project created for learning SQL system design fundamentals.
+This is a database design project created for learning SQL system design fundamentals.
